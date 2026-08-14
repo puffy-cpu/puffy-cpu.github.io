@@ -33,9 +33,9 @@
     
     
     <entry>
-      <title>����</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>��Ӱ</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -44,9 +44,9 @@
     
     
     <entry>
-      <title>��Ӱ</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>����</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -66,9 +66,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>����</title>
+      <link href="/misic/index.html"/>
+      <url>/misic/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,9 +77,9 @@
     
     
     <entry>
-      <title>����</title>
-      <link href="/misic/index.html"/>
-      <url>/misic/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
